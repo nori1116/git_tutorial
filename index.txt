@@ -2,3 +2,5 @@ aaiffakl
 aaaa
 ｇｇ
 コンフリクト
+conflict
+
