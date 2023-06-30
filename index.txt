@@ -1,3 +1,6 @@
 aaiffakl
 aaaa
 ｇｇ
+コンフリクト
+conflict
+github_flow
